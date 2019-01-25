@@ -9,7 +9,7 @@
 >> world
  
  ```Java
- public void do(){
+ public void doSomething(){
   this.a = "i am not fine.";
  }
 
