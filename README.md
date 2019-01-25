@@ -1,6 +1,6 @@
 # shiyan
 
-*我是你`好`\
+*我是你`好`
 
 我是
 =====
@@ -10,9 +10,7 @@
  
  ```Java
  public void do(){
-  this.a = 18;
+  this.a = "i am not fine.";
  }
- 
- 
- String a = "你好"
+
  ```
